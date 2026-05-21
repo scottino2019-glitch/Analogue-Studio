@@ -1,0 +1,6 @@
+{
+  "name": "Creatore Dispositivi Retro",
+  "description": "Un'applicazione interattiva per progettare, personalizzare e simulare dispositivi elettronici vintage degli anni '70, '80 e '90 come radio, TV, Game Boy, iPod, giradischi e computer storici.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
